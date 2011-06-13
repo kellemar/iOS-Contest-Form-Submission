@@ -1,0 +1,21 @@
+iOS Photo Submission App based on Appcelerator Framework
+
+Description
+-------------
+
+A complete form-based application based on the Appcelerator Framework which 
+includes photo submissions, news feed retrieval, photo gallery retrieval and 
+simple ads for both splash and main screens.
+
+This is a Universal app which works for both iPhone and iPad devices. Layout 
+may be re-arranged for optimal viewing on iPad 1/2 devices.
+
+How to install
+----------------
+Add the files to the /Resources directory of your newly created Appcelerator
+mobile project.
+
+Requirements
+---------------
+Latest Appcelerator Titanium SDK (1.6+)
+iOS 4.0+
