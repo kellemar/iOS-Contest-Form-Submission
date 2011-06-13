@@ -19,10 +19,10 @@
 	<array>
 		<dict>
 			<key>CFBundleURLName</key>
-			<string>com.onamix.epicurecontest</string>
+			<string></string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>epicureuniversal</string>
+				<string></string>
 				
 			</array>
 		</dict>
@@ -33,7 +33,7 @@
 	
 	
 	<key>CFBundleIdentifier</key>
-	<string>com.onamix.epicurecontest</string>
+	<string></string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
