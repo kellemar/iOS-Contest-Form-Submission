@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ti:app xmlns:ti="http://ti.appcelerator.org">
-<id>com.onamix.epicurecontest</id>
-<name>Epicure</name>
+<id>com.mycompany.appname</id>
+<name></name>
 <version>1.0</version>
-<publisher>Mint</publisher>
-<url>http://epicureasia.com</url>
+<publisher>none</publisher>
+<url>http://yoururl.com</url>
 <description>No description provided</description>
-<copyright>2011 by Mint</copyright>
+<copyright>2011 by kellemar</copyright>
 <icon>icon.png</icon>
     <persistent-wifi>false</persistent-wifi>
     <prerendered-icon>true</prerendered-icon>
